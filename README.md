@@ -1,0 +1,1 @@
+# Fertilizers-Recommendation-System-for-Plants-using-Machine-Learning
